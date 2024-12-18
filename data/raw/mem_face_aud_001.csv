@@ -1,0 +1,624 @@
+sub,comp,date-time,taskTime,evType,evCnt,blk,blkTrl,expTrl,testType,pair,img,aud,ans,button,conf,resp,acc,rt
+1,mbm-2022h.psych.ucsb.edu,02-Apr-2024 15:53:04,0.052797,misc,1,.,.,.,.,.,.,.,.,.,.,.,.,.
+1,.,02-Apr-2024 15:53:15,11.425130,misc,2,.,.,.,AGE:20,SEX:female,RACE:Asian,INITIALS:AK,.,.,.,.,.,.
+1,.,02-Apr-2024 15:54:43,99.795978,study,3,1,1,1,aud,none,NaN,76.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:54:47,102.835485,study,4,1,2,2,img,familiar,Amelia_Mays_3_oval.jpg,Ave Maria.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:54:50,105.873559,study,5,1,3,3,aud,none,NaN,46.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:54:53,108.913130,study,6,1,4,4,aud,familiar,joe biden.jpg,111.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:54:56,111.962854,study,7,1,5,5,aud,familiar,michelle obama.jpg,28.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:54:59,114.999212,study,8,1,6,6,aud,familiar,barack obama.jpg,153.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:55:02,118.036365,study,9,1,7,7,aud,familiar,robert downey jr.jpg,37.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:55:05,121.076796,study,10,1,8,8,aud,none,NaN,120.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:55:08,124.115654,study,11,1,9,9,aud+img,unfamiliar,Anna_Fay_15_oval.jpg,22.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:55:11,127.153093,study,12,1,10,10,aud,none,NaN,56.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:55:14,130.189254,study,13,1,11,11,aud,familiar,ariana grande.jpg,9.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:55:17,133.224095,study,14,1,12,12,img,familiar,Andrew_Jaggers_11_oval.jpg,Alarm (old phone).m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:55:20,136.259898,study,15,1,13,13,img,familiar,Arthur_Josey_7_oval.jpg,Toccata and fugue in D minor.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:55:23,139.294172,study,16,1,14,14,aud+img,unfamiliar,Adam_Cowart_5_oval.jpg,62.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:55:26,142.330232,study,17,1,15,15,aud+img,unfamiliar,Albert_Paradise_5_oval.jpg,215.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:55:29,145.366598,study,18,1,16,16,aud,none,NaN,192.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:55:32,148.392057,study,19,1,17,17,img,none,Allen_Muhammad_7_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 15:55:35,151.409087,study,20,1,18,18,img,none,Anne_Alicea_7_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 15:55:38,154.425415,study,21,1,19,19,img,none,Arthur_Albright_9_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 15:55:41,157.470384,study,22,1,20,20,aud,none,NaN,138.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:55:44,160.483668,study,23,1,21,21,img,none,Allen_Eagan_1_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 15:55:47,163.525875,study,24,1,22,22,aud+img,unfamiliar,Alma_Kaminski_3_oval.jpg,199.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:55:50,166.540773,study,25,1,23,23,img,none,Anthony_Hartsfield_13_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 15:55:53,169.581960,study,26,1,24,24,aud+img,unfamiliar,Andrew_Eastwood_13_oval.jpg,12.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:55:56,172.596499,study,27,1,25,25,img,none,Albert_Cardoza_5_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 15:55:59,175.635613,study,28,1,26,26,img,familiar,Angie_Dorado_5_oval.jpg,Eleanor Rigby.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:56:02,178.671422,study,29,1,27,27,img,familiar,Allison_Main_11_oval.jpg,Frere Jacques.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:56:05,181.706729,study,30,1,28,28,aud,familiar,britney spears.jpg,77.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:56:08,184.742846,study,31,1,29,29,aud+img,unfamiliar,Angelica_Barclay_17_oval.jpg,152.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:56:11,187.777465,study,32,1,30,30,img,familiar,Alberta_Griswold_13_oval.jpg,Hallelujah.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:56:22,198.105469,test,33,1,1,1,aud,familiar,michelle obama.jpg,28.m4a,old,d,high,old,hit,5.2101
+1,.,02-Apr-2024 15:56:24,200.360913,test,34,1,2,2,aud,none,none,5.m4a,new,k,high,new,cr,1.1081
+1,.,02-Apr-2024 15:56:27,203.189487,test,35,1,3,3,aud,none,none,11.m4a,new,d,high,old,fa,1.7229
+1,.,02-Apr-2024 15:56:30,206.711386,test,36,1,4,4,aud,familiar,joe biden.jpg,111.m4a,old,d,high,old,hit,2.4582
+1,.,02-Apr-2024 15:56:34,210.345114,test,37,1,5,5,aud,none,none,65.m4a,new,d,high,old,fa,2.5572
+1,.,02-Apr-2024 15:56:37,213.707083,test,38,1,6,6,aud,none,none,89.m4a,new,k,high,new,cr,2.236
+1,.,02-Apr-2024 15:56:42,218.258342,test,39,1,7,7,aud,none,none,118.m4a,new,k,high,new,cr,3.4141
+1,.,02-Apr-2024 15:56:45,221.759276,test,40,1,8,8,aud,unfamiliar,Angelica_Barclay_17_oval.jpg,152.m4a,old,k,high,new,miss,2.3411
+1,.,02-Apr-2024 15:56:49,225.131340,test,41,1,9,9,aud,none,NaN,76.m4a,old,k,high,new,miss,2.2087
+1,.,02-Apr-2024 15:56:51,227.423706,test,42,1,10,10,aud,none,NaN,46.m4a,old,k,high,new,miss,1.1847
+1,.,02-Apr-2024 15:56:55,231.723109,test,43,1,11,11,aud,none,none,55.m4a,new,k,high,new,cr,3.102
+1,.,02-Apr-2024 15:56:58,234.321448,test,44,1,12,12,aud,none,none,15.m4a,new,k,high,new,cr,1.4776
+1,.,02-Apr-2024 15:57:01,237.097179,test,45,1,13,13,aud,unfamiliar,Andrew_Eastwood_13_oval.jpg,12.m4a,old,k,high,new,miss,1.5412
+1,.,02-Apr-2024 15:57:03,239.280160,test,46,1,14,14,aud,unfamiliar,Adam_Cowart_5_oval.jpg,62.m4a,old,k,high,new,miss,0.97756
+1,.,02-Apr-2024 15:57:05,241.678325,test,47,1,15,15,aud,none,none,45.m4a,new,k,high,new,cr,1.2507
+1,.,02-Apr-2024 15:57:08,244.249661,test,48,1,16,16,aud,none,none,123.m4a,new,k,high,new,cr,1.4333
+1,.,02-Apr-2024 15:57:10,246.239525,test,49,1,17,17,aud,familiar,robert downey jr.jpg,37.m4a,old,k,high,new,miss,0.8667
+1,.,02-Apr-2024 15:57:12,248.440997,test,50,1,18,18,aud,none,NaN,120.m4a,old,k,high,new,miss,1.0078
+1,.,02-Apr-2024 15:57:27,263.450537,test,51,2,1,19,aud,none,none,216.m4a,new,d,high,old,fa,10.6325
+1,.,02-Apr-2024 15:57:31,267.497454,test,52,2,2,20,aud,none,none,178.m4a,new,d,high,old,fa,2.9554
+1,.,02-Apr-2024 15:57:34,270.082618,test,53,2,3,21,aud,familiar,barack obama.jpg,153.m4a,old,k,high,new,miss,1.4084
+1,.,02-Apr-2024 15:57:37,273.072048,test,54,2,4,22,aud,none,none,145.m4a,new,k,high,new,cr,1.6465
+1,.,02-Apr-2024 15:57:40,276.595685,test,55,2,5,23,aud,none,none,113.m4a,new,k,high,new,cr,2.346
+1,.,02-Apr-2024 15:57:43,279.360280,test,56,2,6,24,aud,none,none,149.m4a,new,d,high,old,fa,1.6661
+1,.,02-Apr-2024 15:57:45,281.489119,test,57,2,7,25,aud,none,NaN,138.m4a,old,d,high,old,hit,1.048
+1,.,02-Apr-2024 15:57:47,283.561852,test,58,2,8,26,aud,unfamiliar,Alma_Kaminski_3_oval.jpg,199.m4a,old,k,high,new,miss,0.88747
+1,.,02-Apr-2024 15:57:50,286.113906,test,59,2,9,27,aud,unfamiliar,Anna_Fay_15_oval.jpg,22.m4a,old,d,high,old,hit,1.4196
+1,.,02-Apr-2024 15:57:52,288.530284,test,60,2,10,28,aud,familiar,britney spears.jpg,77.m4a,old,k,high,new,miss,1.2694
+1,.,02-Apr-2024 15:57:54,290.641585,test,61,2,11,29,aud,none,none,58.m4a,new,k,high,new,cr,0.9681
+1,.,02-Apr-2024 15:57:57,293.042109,test,62,2,12,30,aud,none,none,90.m4a,new,k,high,new,cr,1.2266
+1,.,02-Apr-2024 15:57:59,295.433568,test,63,2,13,31,aud,familiar,ariana grande.jpg,9.m4a,old,k,high,new,miss,1.1923
+1,.,02-Apr-2024 15:58:01,297.446890,test,64,2,14,32,aud,none,none,83.m4a,new,k,high,new,cr,0.85286
+1,.,02-Apr-2024 15:58:03,299.127273,test,65,2,15,33,aud,none,NaN,56.m4a,old,k,high,new,miss,0.49912
+1,.,02-Apr-2024 15:58:05,301.186952,test,66,2,16,34,aud,unfamiliar,Albert_Paradise_5_oval.jpg,215.m4a,old,k,high,new,miss,0.95571
+1,.,02-Apr-2024 15:58:07,303.601042,test,67,2,17,35,aud,none,NaN,192.m4a,old,d,high,old,hit,1.3109
+1,.,02-Apr-2024 15:58:10,305.904533,test,68,2,18,36,aud,none,none,63.m4a,new,k,high,new,cr,1.1788
+1,.,02-Apr-2024 15:58:15,311.207559,test,69,3,1,37,img,none,Albert_Saucedo_9_oval.jpg,none,new,,,,miss,4
+1,.,02-Apr-2024 15:58:18,314.311750,test,70,3,1,37,img,none,Albert_Saucedo_9_oval.jpg,none,new,k,high,new,cr,4.9696
+1,.,02-Apr-2024 15:58:21,317.154474,test,71,3,2,38,img,familiar,Angie_Dorado_5_oval.jpg,Eleanor Rigby.m4a,old,,,,miss,4
+1,.,02-Apr-2024 15:58:23,318.811000,test,72,3,2,38,img,familiar,Angie_Dorado_5_oval.jpg,Eleanor Rigby.m4a,old,d,high,old,hit,3.519
+1,.,02-Apr-2024 15:58:24,320.753919,test,73,3,3,39,img,none,Alison_Niemi_13_oval.jpg,none,new,k,high,new,cr,0.97002
+1,.,02-Apr-2024 15:58:27,322.872017,test,74,3,4,40,img,none,Arlene_Grande_7_oval.jpg,none,new,k,high,new,cr,1.1778
+1,.,02-Apr-2024 15:58:28,324.759523,test,75,3,5,41,img,none,Arthur_Albright_9_oval.jpg,NaN,old,k,high,new,miss,0.9019
+1,.,02-Apr-2024 15:58:30,326.379754,test,76,3,6,42,img,none,Benjamin_Raynor_17_oval.jpg,none,new,k,high,new,cr,0.64576
+1,.,02-Apr-2024 15:58:32,328.157256,test,77,3,7,43,img,none,Anthony_Hartsfield_13_oval.jpg,NaN,old,d,high,old,hit,0.80532
+1,.,02-Apr-2024 15:58:33,329.795287,test,78,3,8,44,img,none,Antonio_Villegas_3_oval.jpg,none,new,k,high,new,cr,0.64699
+1,.,02-Apr-2024 15:58:35,331.441032,test,79,3,9,45,img,none,Adam_Cauthen_11_oval.jpg,none,new,k,high,new,cr,0.66263
+1,.,02-Apr-2024 15:58:37,333.059140,test,80,3,10,46,img,familiar,Allison_Main_11_oval.jpg,Frere Jacques.m4a,old,k,high,new,miss,0.66124
+1,.,02-Apr-2024 15:58:38,334.641301,test,81,3,11,47,img,none,Annette_George_7_oval.jpg,none,new,k,high,new,cr,0.61209
+1,.,02-Apr-2024 15:58:40,336.352248,test,82,3,12,48,img,unfamiliar,Alma_Kaminski_3_oval.jpg,199.m4a,old,d,high,old,hit,0.77456
+1,.,02-Apr-2024 15:58:42,338.675529,test,83,3,13,49,img,unfamiliar,Angelica_Barclay_17_oval.jpg,152.m4a,old,k,high,new,miss,1.307
+1,.,02-Apr-2024 15:58:44,340.401987,test,84,3,14,50,img,familiar,Andrew_Jaggers_11_oval.jpg,Alarm (old phone).m4a,old,k,high,new,miss,0.74285
+1,.,02-Apr-2024 15:58:46,342.339308,test,85,3,15,51,img,none,Albert_Cardoza_5_oval.jpg,NaN,old,d,high,old,hit,0.97184
+1,.,02-Apr-2024 15:58:48,344.200141,test,86,3,16,52,img,unfamiliar,Adam_Cowart_5_oval.jpg,62.m4a,old,k,high,new,miss,0.87907
+1,.,02-Apr-2024 15:58:50,345.865211,test,87,3,17,53,img,none,Angelica_Sommer_7_oval.jpg,none,new,k,high,new,cr,0.72969
+1,.,02-Apr-2024 15:58:51,347.465610,test,88,3,18,54,img,none,Allen_Council_15_oval.jpg,none,new,k,high,new,cr,0.64953
+1,.,02-Apr-2024 15:58:56,351.979676,test,89,4,1,55,img,none,Alberta_Griswold_19_oval.jpg,none,new,,,,miss,4
+1,.,02-Apr-2024 15:58:58,354.064314,test,90,4,1,55,img,none,Alberta_Griswold_19_oval.jpg,none,new,k,high,new,cr,3.967
+1,.,02-Apr-2024 15:59:00,356.056550,test,91,4,2,56,img,none,Allen_Eagan_1_oval.jpg,NaN,old,d,high,old,hit,1.0371
+1,.,02-Apr-2024 15:59:02,358.067420,test,92,4,3,57,img,none,Anne_Alicea_7_oval.jpg,NaN,old,d,high,old,hit,1.0519
+1,.,02-Apr-2024 15:59:04,359.970338,test,93,4,4,58,img,none,Andrew_Perreira_5_oval.jpg,none,new,k,high,new,cr,0.86189
+1,.,02-Apr-2024 15:59:06,361.868009,test,94,4,5,59,img,unfamiliar,Anna_Fay_15_oval.jpg,22.m4a,old,k,high,new,miss,0.94405
+1,.,02-Apr-2024 15:59:08,363.824419,test,95,4,6,60,img,none,Allen_Muhammad_7_oval.jpg,NaN,old,d,high,old,hit,1.0434
+1,.,02-Apr-2024 15:59:09,365.525131,test,96,4,7,61,img,familiar,Amelia_Mays_3_oval.jpg,Ave Maria.m4a,old,k,high,new,miss,0.68624
+1,.,02-Apr-2024 15:59:11,367.204735,test,97,4,8,62,img,none,Alan_Santo_5_oval.jpg,none,new,k,high,new,cr,0.70172
+1,.,02-Apr-2024 15:59:12,368.748916,test,98,4,9,63,img,none,Annie_Bivens_7_oval.jpg,none,new,k,high,new,cr,0.56188
+1,.,02-Apr-2024 15:59:14,370.419236,test,99,4,10,64,img,none,Beth_Fernandez_2_oval.jpg,none,new,k,high,new,cr,0.64275
+1,.,02-Apr-2024 15:59:16,371.954111,test,100,4,11,65,img,familiar,Alberta_Griswold_13_oval.jpg,Hallelujah.m4a,old,k,high,new,miss,0.58582
+1,.,02-Apr-2024 15:59:18,373.833992,test,101,4,12,66,img,familiar,Arthur_Josey_7_oval.jpg,Toccata and fugue in D minor.m4a,old,k,high,new,miss,0.91966
+1,.,02-Apr-2024 15:59:19,375.339443,test,102,4,13,67,img,unfamiliar,Andrew_Eastwood_13_oval.jpg,12.m4a,old,k,high,new,miss,0.51843
+1,.,02-Apr-2024 15:59:21,376.868659,test,103,4,14,68,img,none,Angelica_Beam_7_oval.jpg,none,new,k,high,new,cr,0.55732
+1,.,02-Apr-2024 15:59:22,378.507528,test,104,4,15,69,img,none,Angela_Upshaw_9_oval.jpg,none,new,k,high,new,cr,0.6825
+1,.,02-Apr-2024 15:59:24,380.227004,test,105,4,16,70,img,unfamiliar,Albert_Paradise_5_oval.jpg,215.m4a,old,k,high,new,miss,0.75227
+1,.,02-Apr-2024 15:59:26,381.864661,test,106,4,17,71,img,none,Amber_Cain_5_oval.jpg,none,new,k,high,new,cr,0.68673
+1,.,02-Apr-2024 15:59:27,383.572597,test,107,4,18,72,img,none,Anne_Hamel_1_oval.jpg,none,new,k,high,new,cr,0.73605
+1,.,02-Apr-2024 15:59:32,388.704931,study,108,2,1,31,aud,none,NaN,84.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:59:35,391.742356,study,109,2,2,32,aud+img,unfamiliar,Adam_Ng_17_oval.jpg,54.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:59:38,394.754295,study,110,2,3,33,img,none,Amanda_Mcneese_92_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 15:59:41,397.793223,study,111,2,4,34,aud,familiar,lady gaga.jpg,80.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:59:45,400.831483,study,112,2,5,35,aud,none,NaN,151.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:59:48,403.873355,study,113,2,6,36,aud,familiar,michael jackson.jpg,29.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:59:51,406.908462,study,114,2,7,37,aud+img,unfamiliar,Alicia_Gordy_3_oval.jpg,172.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:59:54,409.942193,study,115,2,8,38,aud,familiar,shakira.jpg,16.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 15:59:57,412.954384,study,116,2,9,39,img,none,Amelia_Bartholomew_1_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:00:00,415.991985,study,117,2,10,40,aud,none,NaN,156.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:00:03,419.025271,study,118,2,11,41,img,familiar,Anthony_Rimmer_19_oval.jpg,Yankee doodle.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:00:06,422.037981,study,119,2,12,42,img,none,Anthony_Jamison_11_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:00:09,425.076877,study,120,2,13,43,aud+img,unfamiliar,Albert_Baird_19_oval.jpg,201.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:00:12,428.088720,study,121,2,14,44,img,none,Anthony_Holmberg_5_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:00:15,431.126004,study,122,2,15,45,img,familiar,Albert_Stites_5_oval.jpg,Party in the USA.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:00:18,434.138434,study,123,2,16,46,img,none,Ann_Mullen_3_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:00:21,437.177529,study,124,2,17,47,aud,familiar,beyonce.jpg,100.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:00:24,440.212519,study,125,2,18,48,aud,familiar,princess diana.jpg,163.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:00:27,443.247943,study,126,2,19,49,aud,familiar,queen elizabeth ii.jpg,103.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:00:30,446.283594,study,127,2,20,50,aud,none,NaN,48.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:00:33,449.318850,study,128,2,21,51,aud+img,unfamiliar,Agnes_Dilley_15_oval.jpg,155.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:00:36,452.355008,study,129,2,22,52,img,familiar,Allen_Strain_13_oval.jpg,In the Hall of the Mountain King.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:00:39,455.390112,study,130,2,23,53,img,familiar,Bessie_Maya_3_oval.jpg,Pachelbel Canon.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:00:42,458.425016,study,131,2,24,54,aud,none,NaN,69.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:00:45,461.461774,study,132,2,25,55,aud,none,NaN,175.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:00:48,464.496856,study,133,2,26,56,aud+img,unfamiliar,Ana_Starnes_1_oval.jpg,51.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:00:51,467.531466,study,134,2,27,57,img,familiar,Albert_Neu_11_oval.jpg,Gangnam Style.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:00:54,470.543485,study,135,2,28,58,img,none,Anthony_Swope_19_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:00:57,473.584385,study,136,2,29,59,aud+img,unfamiliar,Alan_Abbey_15_oval.jpg,180.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:01:00,476.620384,study,137,2,30,60,img,familiar,Albert_Belk_5_oval.jpg,William Tell OVerture.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:01:06,481.906980,test,138,5,1,73,aud,unfamiliar,Agnes_Dilley_15_oval.jpg,155.m4a,old,k,high,new,miss,1.5285
+1,.,02-Apr-2024 16:01:08,484.332104,test,139,5,2,74,aud,none,none,161.m4a,new,d,high,old,fa,1.2239
+1,.,02-Apr-2024 16:01:11,486.938544,test,140,5,3,75,aud,none,none,173.m4a,new,k,high,new,cr,1.5071
+1,.,02-Apr-2024 16:01:13,489.269341,test,141,5,4,76,aud,none,NaN,175.m4a,old,d,high,old,hit,1.1167
+1,.,02-Apr-2024 16:01:15,491.473771,test,142,5,5,77,aud,none,none,93.m4a,new,k,high,new,cr,1.0833
+1,.,02-Apr-2024 16:01:17,493.721877,test,143,5,6,78,aud,none,NaN,69.m4a,old,k,high,new,miss,1.1556
+1,.,02-Apr-2024 16:01:19,495.514847,test,144,5,7,79,aud,none,none,96.m4a,new,k,high,new,cr,0.69866
+1,.,02-Apr-2024 16:01:21,497.429702,test,145,5,8,80,aud,none,none,78.m4a,new,d,high,old,fa,0.80056
+1,.,02-Apr-2024 16:01:23,499.429448,test,146,5,9,81,aud,familiar,queen elizabeth ii.jpg,103.m4a,old,d,high,old,hit,0.91897
+1,.,02-Apr-2024 16:01:25,501.131158,test,147,5,10,82,aud,unfamiliar,Alan_Abbey_15_oval.jpg,180.m4a,old,k,high,new,miss,0.58079
+1,.,02-Apr-2024 16:01:27,503.155896,test,148,5,11,83,aud,unfamiliar,Albert_Baird_19_oval.jpg,201.m4a,old,d,high,old,hit,0.94221
+1,.,02-Apr-2024 16:01:29,504.972327,test,149,5,12,84,aud,familiar,michael jackson.jpg,29.m4a,old,k,high,new,miss,0.6936
+1,.,02-Apr-2024 16:01:30,506.732426,test,150,5,13,85,aud,none,none,130.m4a,new,k,high,new,cr,0.66716
+1,.,02-Apr-2024 16:01:32,508.395276,test,151,5,14,86,aud,none,none,107.m4a,new,k,high,new,cr,0.52599
+1,.,02-Apr-2024 16:01:34,510.443327,test,152,5,15,87,aud,none,none,214.m4a,new,k,high,new,cr,0.96541
+1,.,02-Apr-2024 16:01:36,512.029587,test,153,5,16,88,aud,none,none,112.m4a,new,k,high,new,cr,0.42854
+1,.,02-Apr-2024 16:01:38,514.189958,test,154,5,17,89,aud,familiar,lady gaga.jpg,80.m4a,old,k,high,new,miss,1.0304
+1,.,02-Apr-2024 16:01:39,515.621986,test,155,5,18,90,aud,none,NaN,156.m4a,old,k,high,new,miss,0.34819
+1,.,02-Apr-2024 16:01:43,519.483105,test,156,6,1,91,img,none,Anthony_Swope_19_oval.jpg,NaN,old,d,high,old,hit,1.1507
+1,.,02-Apr-2024 16:01:45,521.396395,test,157,6,2,92,img,none,Alison_Bourne_13_oval.jpg,none,new,k,high,new,cr,0.97437
+1,.,02-Apr-2024 16:01:47,523.679034,test,158,6,3,93,img,none,Ann_Mullen_13_oval.jpg,none,new,d,high,old,fa,1.3815
+1,.,02-Apr-2024 16:01:50,525.934374,test,159,6,4,94,img,none,Alma_Lafountain_15_oval.jpg,none,new,d,high,old,fa,1.3091
+1,.,02-Apr-2024 16:01:52,527.815548,test,160,6,5,95,img,familiar,Albert_Stites_5_oval.jpg,Party in the USA.m4a,old,k,high,new,miss,0.8954
+1,.,02-Apr-2024 16:01:53,529.741301,test,161,6,6,96,img,familiar,Albert_Belk_5_oval.jpg,William Tell OVerture.m4a,old,d,high,old,hit,0.98287
+1,.,02-Apr-2024 16:01:55,531.541767,test,162,6,7,97,img,unfamiliar,Agnes_Dilley_15_oval.jpg,155.m4a,old,k,high,new,miss,0.85247
+1,.,02-Apr-2024 16:01:57,533.347356,test,163,6,8,98,img,none,Anthony_Holmberg_5_oval.jpg,NaN,old,k,high,new,miss,0.84701
+1,.,02-Apr-2024 16:01:59,534.995587,test,164,6,9,99,img,none,Adam_Cuthbertson_3_oval.jpg,none,new,k,high,new,cr,0.70963
+1,.,02-Apr-2024 16:02:00,536.580017,test,165,6,10,100,img,none,Alice_Whitcomb_19_oval.jpg,none,new,k,high,new,cr,0.64437
+1,.,02-Apr-2024 16:02:02,538.342618,test,166,6,11,101,img,none,Anthony_Morgan_7_oval.jpg,none,new,k,high,new,cr,0.79591
+1,.,02-Apr-2024 16:02:04,539.879223,test,167,6,12,102,img,none,Adam_Ng_13_oval.jpg,none,new,k,high,new,cr,0.58024
+1,.,02-Apr-2024 16:02:05,541.715580,test,168,6,13,103,img,none,Ann_Mullen_3_oval.jpg,NaN,old,k,high,new,miss,0.86021
+1,.,02-Apr-2024 16:02:07,543.479176,test,169,6,14,104,img,unfamiliar,Albert_Baird_19_oval.jpg,201.m4a,old,d,high,old,hit,0.79494
+1,.,02-Apr-2024 16:02:09,545.087741,test,170,6,15,105,img,none,Annette_Vest_17_oval.jpg,none,new,k,high,new,cr,0.63975
+1,.,02-Apr-2024 16:02:11,546.925675,test,171,6,16,106,img,unfamiliar,Ana_Starnes_1_oval.jpg,51.m4a,old,k,high,new,miss,0.90561
+1,.,02-Apr-2024 16:02:12,548.429501,test,172,6,17,107,img,familiar,Anthony_Rimmer_19_oval.jpg,Yankee doodle.m4a,old,k,high,new,miss,0.52425
+1,.,02-Apr-2024 16:02:14,550.019356,test,173,6,18,108,img,none,Allen_Rico_1_oval.jpg,none,new,k,high,new,cr,0.63466
+1,.,02-Apr-2024 16:02:18,553.868586,test,174,7,1,109,aud,none,none,3.m4a,new,k,high,new,cr,1.6104
+1,.,02-Apr-2024 16:02:19,555.791069,test,175,7,2,110,aud,familiar,beyonce.jpg,100.m4a,old,k,high,new,miss,0.75412
+1,.,02-Apr-2024 16:02:21,557.219495,test,176,7,3,111,aud,unfamiliar,Ana_Starnes_1_oval.jpg,51.m4a,old,d,high,old,hit,0.33901
+1,.,02-Apr-2024 16:02:22,558.526316,test,177,7,4,112,aud,none,NaN,151.m4a,old,k,high,new,miss,0.23237
+1,.,02-Apr-2024 16:02:24,559.862442,test,178,7,5,113,aud,none,none,196.m4a,new,d,high,old,fa,0.24331
+1,.,02-Apr-2024 16:02:26,562.126340,test,179,7,6,114,aud,familiar,princess diana.jpg,163.m4a,old,k,high,new,miss,1.0953
+1,.,02-Apr-2024 16:02:28,564.556711,test,180,7,7,115,aud,none,NaN,48.m4a,old,k,high,new,miss,1.3124
+1,.,02-Apr-2024 16:02:31,566.868125,test,181,7,8,116,aud,none,none,60.m4a,new,k,high,new,cr,1.1885
+1,.,02-Apr-2024 16:02:33,569.100496,test,182,7,9,117,aud,none,NaN,84.m4a,old,k,high,new,miss,1.1417
+1,.,02-Apr-2024 16:02:35,571.109329,test,183,7,10,118,aud,unfamiliar,Alicia_Gordy_3_oval.jpg,172.m4a,old,k,high,new,miss,0.88539
+1,.,02-Apr-2024 16:02:36,572.765015,test,184,7,11,119,aud,none,none,137.m4a,new,k,high,new,cr,0.46218
+1,.,02-Apr-2024 16:02:38,574.779310,test,185,7,12,120,aud,none,none,189.m4a,new,k,high,new,cr,0.93481
+1,.,02-Apr-2024 16:02:41,576.923163,test,186,7,13,121,aud,none,none,147.m4a,new,d,high,old,fa,1.0256
+1,.,02-Apr-2024 16:02:42,578.395926,test,187,7,14,122,aud,familiar,shakira.jpg,16.m4a,old,k,high,new,miss,0.31924
+1,.,02-Apr-2024 16:02:44,580.483286,test,188,7,15,123,aud,unfamiliar,Adam_Ng_17_oval.jpg,54.m4a,old,k,high,new,miss,0.96944
+1,.,02-Apr-2024 16:02:46,582.363287,test,189,7,16,124,aud,none,none,129.m4a,new,k,high,new,cr,0.7792
+1,.,02-Apr-2024 16:02:48,584.047436,test,190,7,17,125,aud,none,none,114.m4a,new,k,high,new,cr,0.57946
+1,.,02-Apr-2024 16:02:49,585.455659,test,191,7,18,126,aud,none,none,87.m4a,new,k,high,new,cr,0.29521
+1,.,02-Apr-2024 16:02:52,588.751457,test,192,8,1,127,img,none,Allison_Samson_13_oval.jpg,none,new,k,high,new,cr,0.93975
+1,.,02-Apr-2024 16:02:54,590.333384,test,193,8,2,128,img,none,Amanda_Kraus_11_oval.jpg,none,new,k,high,new,cr,0.58626
+1,.,02-Apr-2024 16:02:56,591.888867,test,194,8,3,129,img,none,Antonio_Englert_17_oval.jpg,none,new,k,high,new,cr,0.60789
+1,.,02-Apr-2024 16:02:57,593.428308,test,195,8,4,130,img,none,Allen_Hollingshead_7_oval.jpg,none,new,k,high,new,cr,0.60256
+1,.,02-Apr-2024 16:02:59,594.941753,test,196,8,5,131,img,unfamiliar,Alan_Abbey_15_oval.jpg,180.m4a,old,k,high,new,miss,0.58961
+1,.,02-Apr-2024 16:03:00,596.548415,test,197,8,6,132,img,none,Anthony_Cavender_11_oval.jpg,none,new,k,high,new,cr,0.67215
+1,.,02-Apr-2024 16:03:02,597.894908,test,198,8,7,133,img,none,Anthony_Rimmer_17_oval.jpg,none,new,k,high,new,cr,0.41353
+1,.,02-Apr-2024 16:03:03,599.644756,test,199,8,8,134,img,familiar,Bessie_Maya_3_oval.jpg,Pachelbel Canon.m4a,old,k,high,new,miss,0.82098
+1,.,02-Apr-2024 16:03:05,601.438359,test,200,8,9,135,img,unfamiliar,Alicia_Gordy_3_oval.jpg,172.m4a,old,d,high,old,hit,0.854
+1,.,02-Apr-2024 16:03:07,603.264186,test,201,8,10,136,img,none,Anthony_Jamison_11_oval.jpg,NaN,old,d,high,old,hit,0.85602
+1,.,02-Apr-2024 16:03:09,604.888016,test,202,8,11,137,img,none,Amelia_Bartholomew_1_oval.jpg,NaN,old,d,high,old,hit,0.67658
+1,.,02-Apr-2024 16:03:10,606.719377,test,203,8,12,138,img,none,Amanda_Mcneese_92_oval.jpg,NaN,old,d,high,old,hit,0.8992
+1,.,02-Apr-2024 16:03:12,608.502840,test,204,8,13,139,img,none,Ann_Siu_13_oval.jpg,none,new,k,high,new,cr,0.83558
+1,.,02-Apr-2024 16:03:14,610.157598,test,205,8,14,140,img,familiar,Albert_Neu_11_oval.jpg,Gangnam Style.m4a,old,d,high,old,hit,0.70865
+1,.,02-Apr-2024 16:03:16,611.952112,test,206,8,15,141,img,familiar,Allen_Strain_13_oval.jpg,In the Hall of the Mountain King.m4a,old,k,high,new,miss,0.89456
+1,.,02-Apr-2024 16:03:17,613.599645,test,207,8,16,142,img,unfamiliar,Adam_Ng_17_oval.jpg,54.m4a,old,k,high,new,miss,0.704
+1,.,02-Apr-2024 16:03:19,615.636835,test,208,8,17,143,img,none,Benjamin_Raynor_15_oval.jpg,none,new,k,high,new,cr,1.0538
+1,.,02-Apr-2024 16:03:21,617.469168,test,209,8,18,144,img,none,Adam_Tripp_13_oval.jpg,none,new,k,high,new,cr,0.89479
+1,.,02-Apr-2024 16:03:26,622.132857,study,210,3,1,61,aud,familiar,kim kardashian.jpg,17.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:03:29,625.145369,study,211,3,2,62,img,none,Anthony_Newell_7_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:03:32,628.185101,study,212,3,3,63,aud+img,unfamiliar,Alan_Abbey_19_oval.jpg,97.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:03:35,631.220824,study,213,3,4,64,img,familiar,Alma_Lafferty_1_oval.jpg,Alarm (radar).m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:03:38,634.258016,study,214,3,5,65,aud,familiar,mark zuckerberg.jpg,184.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:03:41,637.301300,study,215,3,6,66,aud,familiar,marilyn monroe.jpg,117.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:03:44,640.313810,study,216,3,7,67,img,none,Angelica_Peter_11_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:03:47,643.352606,study,217,3,8,68,aud+img,unfamiliar,Albert_Edmond_9_oval.jpg,132.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:03:50,646.387721,study,218,3,9,69,aud,none,NaN,203.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:03:53,649.422768,study,219,3,10,70,aud,none,NaN,35.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:03:56,652.435189,study,220,3,11,71,img,none,Anthony_Hartsfield_11_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:03:59,655.473730,study,221,3,12,72,aud,none,NaN,21.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:04:02,658.508718,study,222,3,13,73,aud+img,unfamiliar,Ann_Mullen_15_oval.jpg,211.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:04:05,661.543823,study,223,3,14,74,aud,none,NaN,79.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:04:08,664.579683,study,224,3,15,75,aud,familiar,elvis presley.jpg,75.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:04:11,667.592018,study,225,3,16,76,img,none,Angela_Bono_11_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:04:14,670.629987,study,226,3,17,77,img,familiar,Alberta_Trask_7_oval.jpg,Alarm (slow rise).m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:04:17,673.664316,study,227,3,18,78,aud,none,NaN,106.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:04:20,676.698987,study,228,3,19,79,aud,none,NaN,67.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:04:23,679.734367,study,229,3,20,80,aud+img,unfamiliar,Albert_Edmond_15_oval.jpg,168.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:04:26,682.768859,study,230,3,21,81,aud,familiar,cristiano ronaldo.jpg,73.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:04:29,685.803985,study,231,3,22,82,img,familiar,Alan_Gamerson_7_oval.jpg,State Farm.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:04:33,688.840072,study,232,3,23,83,img,familiar,Albert_Waring_1_oval.jpg,USA National Anthem.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:04:36,691.876563,study,233,3,24,84,aud,familiar,leonardo dicaprio.jpg,86.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:04:39,694.888639,study,234,3,25,85,img,none,Arlene_Mcelroy_19_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:04:42,697.927822,study,235,3,26,86,img,familiar,Antonio_Hillman_11_oval.jpg,Blue Danube Waltz.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:04:45,700.939990,study,236,3,27,87,img,none,Bernice_Stephens_3_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:04:48,703.977891,study,237,3,28,88,aud+img,unfamiliar,Alma_Felder_17_oval.jpg,85.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:04:51,707.012709,study,238,3,29,89,img,familiar,Allison_Baldridge_7_oval.jpg,Beethoven symphony no.5 .m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:04:54,710.047120,study,239,3,30,90,aud+img,unfamiliar,Adrienne_Coen_1_oval.jpg,99.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:05:01,716.864711,test,240,9,1,145,img,none,Adrienne_Coen_13_oval.jpg,none,new,,,,miss,4
+1,.,02-Apr-2024 16:05:01,717.462395,test,241,9,1,145,img,none,Adrienne_Coen_13_oval.jpg,none,new,k,high,new,cr,2.4866
+1,.,02-Apr-2024 16:05:03,719.182393,test,242,9,2,146,img,familiar,Alberta_Trask_7_oval.jpg,Alarm (slow rise).m4a,old,k,high,new,miss,0.77018
+1,.,02-Apr-2024 16:05:04,720.784368,test,243,9,3,147,img,none,Anthony_Hartsfield_11_oval.jpg,NaN,old,d,high,old,hit,0.67145
+1,.,02-Apr-2024 16:05:06,722.374010,test,244,9,4,148,img,none,Annie_Leslie_9_oval.jpg,none,new,k,high,new,cr,0.64307
+1,.,02-Apr-2024 16:05:08,723.945144,test,245,9,5,149,img,unfamiliar,Ann_Mullen_15_oval.jpg,211.m4a,old,k,high,new,miss,0.62995
+1,.,02-Apr-2024 16:05:09,725.552349,test,246,9,6,150,img,familiar,Alan_Gamerson_7_oval.jpg,State Farm.m4a,old,k,high,new,miss,0.66056
+1,.,02-Apr-2024 16:05:11,727.097632,test,247,9,7,151,img,none,Agnes_Castellanos_9_oval.jpg,none,new,k,high,new,cr,0.65201
+1,.,02-Apr-2024 16:05:12,728.785790,test,248,9,8,152,img,familiar,Allison_Baldridge_7_oval.jpg,Beethoven symphony no.5 .m4a,old,d,high,old,hit,0.75593
+1,.,02-Apr-2024 16:05:14,730.368353,test,249,9,9,153,img,none,Albert_Neu_7_oval.jpg,none,new,k,high,new,cr,0.61804
+1,.,02-Apr-2024 16:05:16,732.185819,test,250,9,10,154,img,none,April_Culpepper_17_oval.jpg,none,new,k,high,new,cr,0.85277
+1,.,02-Apr-2024 16:05:17,733.738460,test,251,9,11,155,img,none,Alma_Felder_19_oval.jpg,none,new,k,high,new,cr,0.6155
+1,.,02-Apr-2024 16:05:19,735.250577,test,252,9,12,156,img,none,Alberta_Akins_7_oval.jpg,none,new,k,high,new,cr,0.57223
+1,.,02-Apr-2024 16:05:20,736.790374,test,253,9,13,157,img,none,Allen_Hollingshead_11_oval.jpg,none,new,k,high,new,cr,0.60127
+1,.,02-Apr-2024 16:05:22,738.415712,test,254,9,14,158,img,none,Albert_Carlyle_5_oval.jpg,none,new,k,high,new,cr,0.65078
+1,.,02-Apr-2024 16:05:24,739.928320,test,255,9,15,159,img,unfamiliar,Alma_Felder_17_oval.jpg,85.m4a,old,k,high,new,miss,0.55439
+1,.,02-Apr-2024 16:05:25,741.720738,test,256,9,16,160,img,none,Bernice_Stephens_3_oval.jpg,NaN,old,d,high,old,hit,0.8268
+1,.,02-Apr-2024 16:05:27,743.294890,test,257,9,17,161,img,unfamiliar,Albert_Edmond_15_oval.jpg,168.m4a,old,k,high,new,miss,0.61501
+1,.,02-Apr-2024 16:05:29,745.025393,test,258,9,18,162,img,none,Arlene_Mcelroy_19_oval.jpg,NaN,old,d,high,old,hit,0.77586
+1,.,02-Apr-2024 16:05:33,749.218193,test,259,10,1,163,aud,none,none,59.m4a,new,d,high,old,fa,1.9508
+1,.,02-Apr-2024 16:05:35,750.857562,test,260,10,2,164,aud,none,NaN,35.m4a,old,d,high,old,hit,0.55756
+1,.,02-Apr-2024 16:05:36,752.576198,test,261,10,3,165,aud,none,none,159.m4a,new,k,high,new,cr,0.60176
+1,.,02-Apr-2024 16:05:40,756.410347,test,262,10,4,166,aud,none,none,158.m4a,new,d,high,old,fa,2.7162
+1,.,02-Apr-2024 16:05:44,760.155035,test,263,10,5,167,aud,unfamiliar,Alma_Felder_17_oval.jpg,85.m4a,old,d,high,old,hit,2.5651
+1,.,02-Apr-2024 16:05:46,761.982412,test,264,10,6,168,aud,none,NaN,67.m4a,old,k,high,new,miss,0.66446
+1,.,02-Apr-2024 16:05:48,763.968114,test,265,10,7,169,aud,familiar,marilyn monroe.jpg,117.m4a,old,d,high,old,hit,0.86259
+1,.,02-Apr-2024 16:05:50,766.174499,test,266,10,8,170,aud,none,none,190.m4a,new,d,high,old,fa,1.1046
+1,.,02-Apr-2024 16:05:52,767.985939,test,267,10,9,171,aud,none,none,81.m4a,new,k,high,new,cr,0.65846
+1,.,02-Apr-2024 16:05:53,769.519361,test,268,10,10,172,aud,unfamiliar,Alan_Abbey_19_oval.jpg,97.m4a,old,k,high,new,miss,0.39659
+1,.,02-Apr-2024 16:05:54,770.786018,test,269,10,11,173,aud,none,none,13.m4a,new,k,high,new,cr,0.12151
+1,.,02-Apr-2024 16:05:56,771.967138,test,270,10,12,174,aud,none,none,181.m4a,new,k,high,new,cr,0.042606
+1,.,02-Apr-2024 16:05:57,773.232769,test,271,10,13,175,aud,none,NaN,79.m4a,old,k,high,new,miss,0.10618
+1,.,02-Apr-2024 16:05:58,774.439696,test,272,10,14,176,aud,familiar,elvis presley.jpg,75.m4a,old,k,high,new,miss,0.018249
+1,.,02-Apr-2024 16:06:00,775.946216,test,273,10,15,177,aud,familiar,mark zuckerberg.jpg,184.m4a,old,d,high,old,hit,0.39916
+1,.,02-Apr-2024 16:06:02,778.032907,test,274,10,16,178,aud,none,none,32.m4a,new,k,high,new,cr,0.98064
+1,.,02-Apr-2024 16:06:04,780.407547,test,275,10,17,179,aud,unfamiliar,Ann_Mullen_15_oval.jpg,211.m4a,old,k,high,new,miss,1.2546
+1,.,02-Apr-2024 16:06:06,782.087891,test,276,10,18,180,aud,none,none,52.m4a,new,k,high,new,cr,0.47226
+1,.,02-Apr-2024 16:06:09,785.153331,test,277,11,1,181,img,none,Annie_Gooch_17_oval.jpg,none,new,k,high,new,cr,0.70779
+1,.,02-Apr-2024 16:06:10,786.753630,test,278,11,2,182,img,none,Angelica_Peter_11_oval.jpg,NaN,old,k,high,new,miss,0.66577
+1,.,02-Apr-2024 16:06:12,788.248757,test,279,11,3,183,img,none,Allen_Strain_19_oval.jpg,none,new,k,high,new,cr,0.5496
+1,.,02-Apr-2024 16:06:14,789.931104,test,280,11,4,184,img,none,Agnes_Castellanos_11_oval.jpg,none,new,k,high,new,cr,0.71562
+1,.,02-Apr-2024 16:06:15,791.395136,test,281,11,5,185,img,none,Annie_Leslie_5_oval.jpg,none,new,k,high,new,cr,0.50802
+1,.,02-Apr-2024 16:06:17,792.999211,test,282,11,6,186,img,none,Adrienne_Lebron_15_oval.jpg,none,new,k,high,new,cr,0.64411
+1,.,02-Apr-2024 16:06:19,794.847309,test,283,11,7,187,img,unfamiliar,Alan_Abbey_19_oval.jpg,97.m4a,old,d,high,old,hit,0.87784
+1,.,02-Apr-2024 16:06:20,796.419304,test,284,11,8,188,img,none,Arlene_Grande_19_oval.jpg,none,new,k,high,new,cr,0.58247
+1,.,02-Apr-2024 16:06:22,798.111739,test,285,11,9,189,img,unfamiliar,Adrienne_Coen_1_oval.jpg,99.m4a,old,k,high,new,miss,0.66295
+1,.,02-Apr-2024 16:06:24,799.811340,test,286,11,10,190,img,none,Alma_Gober_3_oval.jpg,none,new,k,high,new,cr,0.72345
+1,.,02-Apr-2024 16:06:25,801.327475,test,287,11,11,191,img,familiar,Antonio_Hillman_11_oval.jpg,Blue Danube Waltz.m4a,old,k,high,new,miss,0.56549
+1,.,02-Apr-2024 16:06:26,802.472693,test,288,11,12,192,img,unfamiliar,Albert_Edmond_9_oval.jpg,132.m4a,old,k,high,new,miss,0.15074
+1,.,02-Apr-2024 16:06:28,804.084003,test,289,11,13,193,img,familiar,Albert_Waring_1_oval.jpg,USA National Anthem.m4a,old,k,high,new,miss,0.70553
+1,.,02-Apr-2024 16:06:29,805.698323,test,290,11,14,194,img,none,Ann_Marino_9_oval.jpg,none,new,k,high,new,cr,0.62362
+1,.,02-Apr-2024 16:06:31,807.218005,test,291,11,15,195,img,none,Angela_Bono_11_oval.jpg,NaN,old,k,high,new,miss,0.57492
+1,.,02-Apr-2024 16:06:33,809.023736,test,292,11,16,196,img,none,Anthony_Newell_7_oval.jpg,NaN,old,d,high,old,hit,0.83694
+1,.,02-Apr-2024 16:06:34,810.595362,test,293,11,17,197,img,none,Antoinette_Carrion_5_oval.jpg,none,new,k,high,new,cr,0.61689
+1,.,02-Apr-2024 16:06:36,812.443026,test,294,11,18,198,img,familiar,Alma_Lafferty_1_oval.jpg,Alarm (radar).m4a,old,d,high,old,hit,0.85958
+1,.,02-Apr-2024 16:06:41,817.712311,test,295,12,1,199,aud,none,NaN,21.m4a,old,k,high,new,miss,3.0841
+1,.,02-Apr-2024 16:06:43,819.178026,test,296,12,2,200,aud,unfamiliar,Albert_Edmond_15_oval.jpg,168.m4a,old,k,high,new,miss,0.38674
+1,.,02-Apr-2024 16:06:44,820.681187,test,297,12,3,201,aud,none,none,102.m4a,new,d,high,old,fa,0.38051
+1,.,02-Apr-2024 16:06:46,822.632415,test,298,12,4,202,aud,unfamiliar,Adrienne_Coen_1_oval.jpg,99.m4a,old,k,high,new,miss,0.7995
+1,.,02-Apr-2024 16:06:49,824.946397,test,299,12,5,203,aud,none,none,134.m4a,new,d,high,old,fa,1.1957
+1,.,02-Apr-2024 16:06:51,827.192326,test,300,12,6,204,aud,none,none,33.m4a,new,k,high,new,cr,1.0308
+1,.,02-Apr-2024 16:06:53,828.935287,test,301,12,7,205,aud,none,none,154.m4a,new,k,high,new,cr,0.5991
+1,.,02-Apr-2024 16:06:55,831.354171,test,302,12,8,206,aud,none,none,204.m4a,new,k,high,new,cr,1.3029
+1,.,02-Apr-2024 16:06:57,832.986899,test,303,12,9,207,aud,unfamiliar,Albert_Edmond_9_oval.jpg,132.m4a,old,d,high,old,hit,0.49084
+1,.,02-Apr-2024 16:06:58,834.570541,test,304,12,10,208,aud,none,none,176.m4a,new,k,high,new,cr,0.38507
+1,.,02-Apr-2024 16:07:00,836.312236,test,305,12,11,209,aud,familiar,kim kardashian.jpg,17.m4a,old,d,high,old,hit,0.63466
+1,.,02-Apr-2024 16:07:01,837.695733,test,306,12,12,210,aud,none,NaN,106.m4a,old,k,high,new,miss,0.26348
+1,.,02-Apr-2024 16:07:03,839.232942,test,307,12,13,211,aud,familiar,cristiano ronaldo.jpg,73.m4a,old,d,high,old,hit,0.41557
+1,.,02-Apr-2024 16:07:04,840.689914,test,308,12,14,212,aud,familiar,leonardo dicaprio.jpg,86.m4a,old,k,high,new,miss,0.32377
+1,.,02-Apr-2024 16:07:06,842.079178,test,309,12,15,213,aud,none,none,166.m4a,new,k,high,new,cr,0.27404
+1,.,02-Apr-2024 16:07:08,844.415453,test,310,12,16,214,aud,none,none,116.m4a,new,k,high,new,cr,1.1679
+1,.,02-Apr-2024 16:07:10,846.034443,test,311,12,17,215,aud,none,none,202.m4a,new,k,high,new,cr,0.44796
+1,.,02-Apr-2024 16:07:11,847.697537,test,312,12,18,216,aud,none,NaN,203.m4a,old,d,high,old,hit,0.48738
+1,.,02-Apr-2024 16:07:16,852.691377,study,313,4,1,91,aud,none,NaN,187.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:07:19,855.727967,study,314,4,2,92,img,familiar,Allison_Zambrano_9_oval.jpg,Wedding march.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:07:22,858.763420,study,315,4,3,93,aud,none,NaN,194.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:07:25,861.801522,study,316,4,4,94,img,familiar,Allen_March_9_oval.jpg,Despacito.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:07:29,864.813840,study,317,4,5,95,img,none,Amanda_Mcneese_9_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:07:32,867.858922,study,318,4,6,96,aud,familiar,rihanna.jpg,108.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:07:35,870.894555,study,319,4,7,97,img,familiar,Antonio_Englert_9_oval.jpg,The Entertainer.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:07:38,873.930083,study,320,4,8,98,aud,none,NaN,49.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:07:41,876.963930,study,321,4,9,99,img,familiar,Alan_Ruff_13_oval.jpg,Netflix intro.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:07:44,879.996627,study,322,4,10,100,aud+img,unfamiliar,Allen_Muhammad_13_oval.jpg,2.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:07:47,883.032522,study,323,4,11,101,aud,none,NaN,160.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:07:50,886.067857,study,324,4,12,102,aud,familiar,dwayne johnson.jpg,82.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:07:53,889.103264,study,325,4,13,103,aud+img,unfamiliar,Allison_Baldridge_1_oval.jpg,198.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:07:56,892.137995,study,326,4,14,104,aud+img,unfamiliar,Arthur_Albright_15_oval.jpg,186.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:07:59,895.171144,study,327,4,15,105,img,familiar,Annie_Bivens_3_oval.jpg,Swan Lake.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:08:02,898.211261,study,328,4,16,106,aud,none,NaN,14.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:08:05,901.223838,study,329,4,17,107,img,none,Alicia_Swinton_3_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:08:08,904.364464,study,330,4,18,108,aud+img,unfamiliar,Alicia_Gordy_7_oval.jpg,74.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:08:11,907.377043,study,331,4,19,109,img,none,Angela_Upshaw_7_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:08:14,910.416232,study,332,4,20,110,img,familiar,Angela_Upshaw_1_oval.jpg,Bizet Carmen.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:08:17,913.428092,study,333,4,21,111,img,none,Alice_Mckellar_11_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:08:20,916.443384,study,334,4,22,112,img,none,Ana_Gulley_15_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:08:23,919.481945,study,335,4,23,113,aud,familiar,selena gomez.jpg,68.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:08:26,922.517201,study,336,4,24,114,aud,familiar,steve jobs.jpg,164.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:08:29,925.555508,study,337,4,25,115,aud+img,unfamiliar,Albert_Rohr_11_oval.jpg,98.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:08:32,928.567536,study,338,4,26,116,img,none,April_Farris_1_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:08:35,931.606401,study,339,4,27,117,aud,none,NaN,206.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:08:38,934.641603,study,340,4,28,118,aud,familiar,morgan freeman.jpg,104.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:08:41,937.677180,study,341,4,29,119,aud,familiar,george washington.jpg,36.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:08:44,940.712276,study,342,4,30,120,aud+img,unfamiliar,Arthur_Ashmore_3_oval.jpg,128.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:08:50,946.725671,test,343,13,1,217,img,unfamiliar,Arthur_Albright_15_oval.jpg,186.m4a,old,,,,miss,4
+1,.,02-Apr-2024 16:08:51,947.034994,test,344,13,1,217,img,unfamiliar,Arthur_Albright_15_oval.jpg,186.m4a,old,d,high,old,hit,2.1659
+1,.,02-Apr-2024 16:08:53,948.885760,test,345,13,2,218,img,unfamiliar,Allen_Muhammad_13_oval.jpg,2.m4a,old,d,high,old,hit,0.91767
+1,.,02-Apr-2024 16:08:54,950.523919,test,346,13,3,219,img,none,Angela_Upshaw_15_oval.jpg,none,new,k,high,new,cr,0.7142
+1,.,02-Apr-2024 16:08:56,952.098519,test,347,13,4,220,img,none,Albert_Belk_12_oval.jpg,none,new,k,high,new,cr,0.61496
+1,.,02-Apr-2024 16:08:57,953.611591,test,348,13,5,221,img,familiar,Annie_Bivens_3_oval.jpg,Swan Lake.m4a,old,k,high,new,miss,0.5721
+1,.,02-Apr-2024 16:08:59,955.283617,test,349,13,6,222,img,familiar,Alan_Ruff_13_oval.jpg,Netflix intro.m4a,old,d,high,old,hit,0.7309
+1,.,02-Apr-2024 16:09:01,956.868724,test,350,13,7,223,img,none,April_Farris_1_oval.jpg,NaN,old,k,high,new,miss,0.65201
+1,.,02-Apr-2024 16:09:02,958.602836,test,351,13,8,224,img,none,Antonio_Southern_15_oval.jpg,none,new,k,high,new,cr,0.79703
+1,.,02-Apr-2024 16:09:04,960.202701,test,352,13,9,225,img,none,Alice_Mckellar_11_oval.jpg,NaN,old,k,high,new,miss,0.6681
+1,.,02-Apr-2024 16:09:06,961.947617,test,353,13,10,226,img,familiar,Angela_Upshaw_1_oval.jpg,Bizet Carmen.m4a,old,d,high,old,hit,0.80837
+1,.,02-Apr-2024 16:09:07,963.773612,test,354,13,11,227,img,none,Allison_Harbison_7_oval.jpg,none,new,k,high,new,cr,0.86922
+1,.,02-Apr-2024 16:09:09,965.422571,test,355,13,12,228,img,none,Albert_Carbaugh_3_oval.jpg,none,new,k,high,new,cr,0.70479
+1,.,02-Apr-2024 16:09:11,967.036727,test,356,13,13,229,img,none,Alicia_Swinton_3_oval.jpg,NaN,old,d,high,old,hit,0.68096
+1,.,02-Apr-2024 16:09:13,968.811136,test,357,13,14,230,img,unfamiliar,Arthur_Ashmore_3_oval.jpg,128.m4a,old,d,high,old,hit,0.80969
+1,.,02-Apr-2024 16:09:14,970.483894,test,358,13,15,231,img,none,Angelica_Peter_5_oval.jpg,none,new,k,high,new,cr,0.71559
+1,.,02-Apr-2024 16:09:16,972.354623,test,359,13,16,232,img,none,Andrew_Kautz_15_oval.jpg,none,new,k,high,new,cr,0.90932
+1,.,02-Apr-2024 16:09:18,974.467146,test,360,13,17,233,img,none,Belinda_Barrington_13_oval.jpg,none,new,k,high,new,cr,1.1325
+1,.,02-Apr-2024 16:09:20,976.315641,test,361,13,18,234,img,none,Andrew_Cuevas_3_oval.jpg,none,new,k,high,new,cr,0.94129
+1,.,02-Apr-2024 16:09:24,980.572796,test,362,14,1,235,aud,none,none,191.m4a,new,d,high,old,fa,1.7958
+1,.,02-Apr-2024 16:09:27,982.893635,test,363,14,2,236,aud,none,none,133.m4a,new,d,high,old,fa,1.1944
+1,.,02-Apr-2024 16:09:29,985.091988,test,364,14,3,237,aud,none,none,212.m4a,new,d,high,old,fa,1.0268
+1,.,02-Apr-2024 16:09:30,986.753828,test,365,14,4,238,aud,none,none,140.m4a,new,k,high,new,cr,0.48026
+1,.,02-Apr-2024 16:09:33,989.405057,test,366,14,5,239,aud,none,NaN,49.m4a,old,d,high,old,hit,1.5259
+1,.,02-Apr-2024 16:09:34,990.707665,test,367,14,6,240,aud,none,none,119.m4a,new,k,high,new,cr,0.024843
+1,.,02-Apr-2024 16:09:36,992.369769,test,368,14,7,241,aud,none,none,25.m4a,new,k,high,new,cr,0.56636
+1,.,02-Apr-2024 16:09:38,994.035560,test,369,14,8,242,aud,familiar,morgan freeman.jpg,104.m4a,old,k,high,new,miss,0.54269
+1,.,02-Apr-2024 16:09:40,996.404574,test,370,14,9,243,aud,unfamiliar,Albert_Rohr_11_oval.jpg,98.m4a,old,d,high,old,hit,1.2613
+1,.,02-Apr-2024 16:09:42,998.134039,test,371,14,10,244,aud,unfamiliar,Arthur_Albright_15_oval.jpg,186.m4a,old,k,high,new,miss,0.61515
+1,.,02-Apr-2024 16:09:44,999.893723,test,372,14,11,245,aud,unfamiliar,Allison_Baldridge_1_oval.jpg,198.m4a,old,k,high,new,miss,0.6456
+1,.,02-Apr-2024 16:09:45,1001.725769,test,373,14,12,246,aud,familiar,selena gomez.jpg,68.m4a,old,k,high,new,miss,0.67689
+1,.,02-Apr-2024 16:09:47,1003.635289,test,374,14,13,247,aud,none,none,139.m4a,new,d,high,old,fa,0.80764
+1,.,02-Apr-2024 16:09:49,1005.074209,test,375,14,14,248,aud,none,none,170.m4a,new,k,high,new,cr,0.30297
+1,.,02-Apr-2024 16:09:50,1006.506832,test,376,14,15,249,aud,none,none,131.m4a,new,k,high,new,cr,0.29811
+1,.,02-Apr-2024 16:09:52,1008.147122,test,377,14,16,250,aud,familiar,steve jobs.jpg,164.m4a,old,k,high,new,miss,0.55953
+1,.,02-Apr-2024 16:09:53,1009.614018,test,378,14,17,251,aud,none,NaN,206.m4a,old,k,high,new,miss,0.35679
+1,.,02-Apr-2024 16:09:55,1011.053970,test,379,14,18,252,aud,none,NaN,160.m4a,old,d,high,old,hit,0.33463
+1,.,02-Apr-2024 16:09:58,1014.251336,test,380,15,1,253,aud,unfamiliar,Arthur_Ashmore_3_oval.jpg,128.m4a,old,d,high,old,hit,0.68915
+1,.,02-Apr-2024 16:10:00,1016.468141,test,381,15,2,254,aud,familiar,dwayne johnson.jpg,82.m4a,old,d,high,old,hit,1.1327
+1,.,02-Apr-2024 16:10:02,1018.429262,test,382,15,3,255,aud,none,none,19.m4a,new,k,high,new,cr,0.80497
+1,.,02-Apr-2024 16:10:04,1019.834556,test,383,15,4,256,aud,none,none,209.m4a,new,k,high,new,cr,0.33028
+1,.,02-Apr-2024 16:10:05,1021.306399,test,384,15,5,257,aud,none,none,18.m4a,new,d,high,old,fa,0.38397
+1,.,02-Apr-2024 16:10:06,1022.675363,test,385,15,6,258,aud,none,none,39.m4a,new,k,high,new,cr,0.24422
+1,.,02-Apr-2024 16:10:08,1024.284449,test,386,15,7,259,aud,unfamiliar,Alicia_Gordy_7_oval.jpg,74.m4a,old,d,high,old,hit,0.4968
+1,.,02-Apr-2024 16:10:09,1025.789042,test,387,15,8,260,aud,none,NaN,187.m4a,old,k,high,new,miss,0.33349
+1,.,02-Apr-2024 16:10:12,1027.890450,test,388,15,9,261,aud,none,NaN,14.m4a,old,d,high,old,hit,0.97592
+1,.,02-Apr-2024 16:10:14,1030.060229,test,389,15,10,262,aud,none,none,8.m4a,new,k,high,new,cr,0.97136
+1,.,02-Apr-2024 16:10:16,1032.611271,test,390,15,11,263,aud,familiar,rihanna.jpg,108.m4a,old,d,high,old,hit,1.4233
+1,.,02-Apr-2024 16:10:18,1034.555643,test,391,15,12,264,aud,none,none,92.m4a,new,k,high,new,cr,0.78738
+1,.,02-Apr-2024 16:10:20,1036.236130,test,392,15,13,265,aud,none,none,41.m4a,new,d,high,old,fa,0.58218
+1,.,02-Apr-2024 16:10:22,1038.006419,test,393,15,14,266,aud,unfamiliar,Allen_Muhammad_13_oval.jpg,2.m4a,old,d,high,old,hit,0.6598
+1,.,02-Apr-2024 16:10:23,1039.341471,test,394,15,15,267,aud,familiar,george washington.jpg,36.m4a,old,k,high,new,miss,0.20304
+1,.,02-Apr-2024 16:10:25,1041.059085,test,395,15,16,268,aud,none,none,195.m4a,new,k,high,new,cr,0.59783
+1,.,02-Apr-2024 16:10:27,1042.877318,test,396,15,17,269,aud,none,NaN,194.m4a,old,k,high,new,miss,0.70217
+1,.,02-Apr-2024 16:10:28,1044.259767,test,397,15,18,270,aud,none,none,126.m4a,new,k,high,new,cr,0.28579
+1,.,02-Apr-2024 16:10:31,1047.567270,test,398,16,1,271,img,unfamiliar,Albert_Rohr_11_oval.jpg,98.m4a,old,d,high,old,hit,0.90969
+1,.,02-Apr-2024 16:10:33,1049.341744,test,399,16,2,272,img,none,Anne_Marra_1_oval.jpg,none,new,d,high,old,fa,0.77588
+1,.,02-Apr-2024 16:10:35,1050.859872,test,400,16,3,273,img,familiar,Allen_March_9_oval.jpg,Despacito.m4a,old,d,high,old,hit,0.58142
+1,.,02-Apr-2024 16:10:36,1052.588627,test,401,16,4,274,img,none,Alice_Zapata_7_oval.jpg,none,new,d,high,old,fa,0.77997
+1,.,02-Apr-2024 16:10:38,1054.084498,test,402,16,5,275,img,none,Alan_Peachey_7_oval.jpg,none,new,k,high,new,cr,0.55211
+1,.,02-Apr-2024 16:10:39,1055.551357,test,403,16,6,276,img,none,Andrew_Shephard_13_oval.jpg,none,new,k,high,new,cr,0.50651
+1,.,02-Apr-2024 16:10:41,1057.149656,test,404,16,7,277,img,unfamiliar,Allison_Baldridge_1_oval.jpg,198.m4a,old,k,high,new,miss,0.63168
+1,.,02-Apr-2024 16:10:42,1058.668768,test,405,16,8,278,img,none,Ana_Gulley_15_oval.jpg,NaN,old,k,high,new,miss,0.57286
+1,.,02-Apr-2024 16:10:44,1060.358650,test,406,16,9,279,img,none,Alberta_Herbst_3_oval.jpg,none,new,k,high,new,cr,0.7379
+1,.,02-Apr-2024 16:10:46,1062.037192,test,407,16,10,280,img,none,Antonio_Hillman_15_oval.jpg,none,new,k,high,new,cr,0.73137
+1,.,02-Apr-2024 16:10:48,1064.199492,test,408,16,11,281,img,none,Amanda_Mcneese_9_oval.jpg,NaN,old,d,high,old,hit,1.2173
+1,.,02-Apr-2024 16:10:50,1065.886229,test,409,16,12,282,img,none,Annie_Leslie_17_oval.jpg,none,new,k,high,new,cr,0.72128
+1,.,02-Apr-2024 16:10:51,1067.399814,test,410,16,13,283,img,none,Alan_Moncrief_5_oval.jpg,none,new,k,high,new,cr,0.54585
+1,.,02-Apr-2024 16:10:53,1069.031061,test,411,16,14,284,img,none,Angela_Upshaw_7_oval.jpg,NaN,old,k,high,new,miss,0.66823
+1,.,02-Apr-2024 16:10:54,1070.711397,test,412,16,15,285,img,familiar,Antonio_Englert_9_oval.jpg,The Entertainer.m4a,old,d,high,old,hit,0.72939
+1,.,02-Apr-2024 16:10:56,1072.429216,test,413,16,16,286,img,unfamiliar,Alicia_Gordy_7_oval.jpg,74.m4a,old,k,high,new,miss,0.78189
+1,.,02-Apr-2024 16:10:58,1074.213519,test,414,16,17,287,img,familiar,Allison_Zambrano_9_oval.jpg,Wedding march.m4a,old,k,high,new,miss,0.84091
+1,.,02-Apr-2024 16:11:00,1075.984148,test,415,16,18,288,img,none,Albert_Carlyle_11_oval.jpg,none,new,d,high,old,fa,0.8144
+1,.,02-Apr-2024 16:11:04,1080.794238,study,416,5,1,121,aud,familiar,elon musk.jpg,136.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:11:07,1083.806828,study,417,5,2,122,img,none,Allison_Stubbs_15_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:11:11,1086.848412,study,418,5,3,123,img,familiar,Beth_Fernandez_7_oval.jpg,Alarm (ripples).m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:11:14,1089.885159,study,419,5,4,124,img,familiar,Angelica_Rahman_19_oval.jpg,My heart will go on.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:11:17,1092.922855,study,420,5,5,125,aud,familiar,taylor swift.jpg,1.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:11:20,1095.965197,study,421,5,6,126,aud+img,unfamiliar,Albert_Gates_3_oval.jpg,109.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:11:23,1099.001429,study,422,5,7,127,aud,none,NaN,205.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:11:26,1102.036820,study,423,5,8,128,aud,none,NaN,6.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:11:29,1105.070306,study,424,5,9,129,img,familiar,Alison_Trejo_15_oval.jpg,Jingle bells.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:11:32,1108.103933,study,425,5,10,130,aud+img,unfamiliar,Albert_Edmond_19_oval.jpg,188.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:11:35,1111.116291,study,426,5,11,131,img,none,Adam_Koester_12_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:11:38,1114.153034,study,427,5,12,132,aud,none,NaN,167.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:11:41,1117.188077,study,428,5,13,133,aud,none,NaN,20.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:11:44,1120.199782,study,429,5,14,134,img,none,Antonio_Southern_11_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:11:47,1123.237054,study,430,5,15,135,img,familiar,Anthony_Jamison_17_oval.jpg,Nokia ringtone.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:11:50,1126.248460,study,431,5,16,136,img,none,Alan_Peachey_17_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:11:53,1129.288646,study,432,5,17,137,img,familiar,Annie_Polk_15_oval.jpg,Fur Elise.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:11:56,1132.325720,study,433,5,18,138,aud,familiar,justin bieber.jpg,135.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:11:59,1135.361455,study,434,5,19,139,aud,none,NaN,182.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:12:02,1138.397034,study,435,5,20,140,aud+img,unfamiliar,Alan_Rainwater_15_oval.jpg,10.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:12:05,1141.432875,study,436,5,21,141,aud,familiar,john f. kennedy.jpg,165.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:12:08,1144.468172,study,437,5,22,142,aud,none,NaN,208.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:12:11,1147.503709,study,438,5,23,143,aud+img,unfamiliar,Agnes_Dilley_13_oval.jpg,200.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:12:14,1150.540054,study,439,5,24,144,img,familiar,Adam_Koester_10_oval.jpg,Nationwide Insurance.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:12:17,1153.575671,study,440,5,25,145,aud,familiar,kylie jenner.jpg,40.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:12:20,1156.610521,study,441,5,26,146,aud+img,unfamiliar,Amy_Shull_9_oval.jpg,38.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:12:23,1159.621413,study,442,5,27,147,img,none,Angela_Bono_3_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:12:26,1162.636155,study,443,5,28,148,img,none,Amber_Marcum_13_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:12:29,1165.674777,study,444,5,29,149,aud+img,unfamiliar,Andrew_Jaggers_3_oval.jpg,213.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:12:32,1168.709941,study,445,5,30,150,aud,familiar,jackie chan.jpg,44.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:12:38,1173.936097,test,446,17,1,289,aud,none,NaN,205.m4a,old,d,high,old,hit,1.4111
+1,.,02-Apr-2024 16:12:39,1175.501554,test,447,17,2,290,aud,none,none,174.m4a,new,d,high,old,fa,0.4557
+1,.,02-Apr-2024 16:12:41,1177.343831,test,448,17,3,291,aud,none,none,71.m4a,new,k,high,new,cr,0.74474
+1,.,02-Apr-2024 16:12:43,1179.400478,test,449,17,4,292,aud,none,none,122.m4a,new,k,high,new,cr,0.93815
+1,.,02-Apr-2024 16:12:45,1181.324561,test,450,17,5,293,aud,none,none,193.m4a,new,d,high,old,fa,0.80726
+1,.,02-Apr-2024 16:12:47,1183.111073,test,451,17,6,294,aud,none,none,105.m4a,new,k,high,new,cr,0.62915
+1,.,02-Apr-2024 16:12:48,1184.632279,test,452,17,7,295,aud,none,none,127.m4a,new,d,high,old,fa,0.37359
+1,.,02-Apr-2024 16:12:50,1186.160758,test,453,17,8,296,aud,none,NaN,20.m4a,old,k,high,new,miss,0.34426
+1,.,02-Apr-2024 16:12:52,1187.991889,test,454,17,9,297,aud,familiar,elon musk.jpg,136.m4a,old,d,high,old,hit,0.71195
+1,.,02-Apr-2024 16:12:53,1189.583305,test,455,17,10,298,aud,none,none,57.m4a,new,d,high,old,fa,0.43182
+1,.,02-Apr-2024 16:12:55,1191.110022,test,456,17,11,299,aud,unfamiliar,Alan_Rainwater_15_oval.jpg,10.m4a,old,k,high,new,miss,0.35175
+1,.,02-Apr-2024 16:12:57,1193.260809,test,457,17,12,300,aud,familiar,jackie chan.jpg,44.m4a,old,d,high,old,hit,1.0565
+1,.,02-Apr-2024 16:12:59,1194.903028,test,458,17,13,301,aud,familiar,taylor swift.jpg,1.m4a,old,k,high,new,miss,0.46555
+1,.,02-Apr-2024 16:13:00,1196.351423,test,459,17,14,302,aud,none,NaN,167.m4a,old,d,high,old,hit,0.3446
+1,.,02-Apr-2024 16:13:02,1198.014212,test,460,17,15,303,aud,unfamiliar,Agnes_Dilley_13_oval.jpg,200.m4a,old,k,high,new,miss,0.50115
+1,.,02-Apr-2024 16:13:04,1199.814911,test,461,17,16,304,aud,none,none,157.m4a,new,k,high,new,cr,0.61289
+1,.,02-Apr-2024 16:13:05,1201.253121,test,462,17,17,305,aud,unfamiliar,Albert_Edmond_19_oval.jpg,188.m4a,old,k,high,new,miss,0.26456
+1,.,02-Apr-2024 16:13:07,1203.033526,test,463,17,18,306,aud,none,none,124.m4a,new,k,high,new,cr,0.6018
+1,.,02-Apr-2024 16:13:12,1208.811562,test,464,18,1,307,img,none,Angela_Bono_3_oval.jpg,NaN,old,,,,miss,4
+1,.,02-Apr-2024 16:13:14,1209.848139,test,465,18,1,307,img,none,Angela_Bono_3_oval.jpg,NaN,old,k,high,new,miss,2.9222
+1,.,02-Apr-2024 16:13:15,1211.518501,test,466,18,2,308,img,none,Annie_Leyva_19_oval.jpg,none,new,k,high,new,cr,0.72576
+1,.,02-Apr-2024 16:13:17,1213.097967,test,467,18,3,309,img,none,Belinda_Boutte_1_oval.jpg,none,new,k,high,new,cr,0.63873
+1,.,02-Apr-2024 16:13:19,1215.110864,test,468,18,4,310,img,familiar,Angelica_Rahman_19_oval.jpg,My heart will go on.m4a,old,d,high,old,hit,1.067
+1,.,02-Apr-2024 16:13:20,1216.777062,test,469,18,5,311,img,none,Andrew_Presley_11_oval.jpg,none,new,k,high,new,cr,0.69197
+1,.,02-Apr-2024 16:13:22,1218.249479,test,470,18,6,312,img,none,Antonio_Blaney_11_oval.jpg,none,new,k,high,new,cr,0.49473
+1,.,02-Apr-2024 16:13:24,1219.831780,test,471,18,7,313,img,unfamiliar,Andrew_Jaggers_3_oval.jpg,213.m4a,old,k,high,new,miss,0.60968
+1,.,02-Apr-2024 16:13:25,1221.569968,test,472,18,8,314,img,familiar,Adam_Koester_10_oval.jpg,Nationwide Insurance.m4a,old,d,high,old,hit,0.78408
+1,.,02-Apr-2024 16:13:27,1223.265914,test,473,18,9,315,img,none,Adam_Koester_14_oval.jpg,none,new,k,high,new,cr,0.72784
+1,.,02-Apr-2024 16:13:29,1225.130048,test,474,18,10,316,img,none,Angelica_Sommer_1_oval.jpg,none,new,d,high,old,fa,0.89921
+1,.,02-Apr-2024 16:13:31,1226.897416,test,475,18,11,317,img,unfamiliar,Agnes_Dilley_13_oval.jpg,200.m4a,old,d,high,old,hit,0.81037
+1,.,02-Apr-2024 16:13:32,1228.663221,test,476,18,12,318,img,familiar,Annie_Polk_15_oval.jpg,Fur Elise.m4a,old,k,high,new,miss,0.80989
+1,.,02-Apr-2024 16:13:34,1230.322770,test,477,18,13,319,img,none,Ada_Riddick_15_oval.jpg,none,new,k,high,new,cr,0.70182
+1,.,02-Apr-2024 16:13:36,1232.159353,test,478,18,14,320,img,none,Antonio_Blaney_13_oval.jpg,none,new,k,high,new,cr,0.86695
+1,.,02-Apr-2024 16:13:38,1234.768431,test,479,18,15,321,img,none,Andrew_Shephard_19_oval.jpg,none,new,d,high,old,fa,1.5915
+1,.,02-Apr-2024 16:13:41,1237.601600,test,480,18,16,322,img,unfamiliar,Amy_Shull_9_oval.jpg,38.m4a,old,,,,miss,4
+1,.,02-Apr-2024 16:13:42,1238.017263,test,481,18,16,322,img,unfamiliar,Amy_Shull_9_oval.jpg,38.m4a,old,d,high,old,hit,2.2812
+1,.,02-Apr-2024 16:13:44,1239.946102,test,482,18,17,323,img,none,Adam_Koester_12_oval.jpg,NaN,old,k,high,new,miss,0.99691
+1,.,02-Apr-2024 16:13:45,1241.776620,test,483,18,18,324,img,none,Allison_Stubbs_15_oval.jpg,NaN,old,k,high,new,miss,0.85004
+1,.,02-Apr-2024 16:13:50,1245.931173,test,484,19,1,325,img,none,Amber_Marcum_13_oval.jpg,NaN,old,,,,miss,4
+1,.,02-Apr-2024 16:13:50,1246.241622,test,485,19,1,325,img,none,Amber_Marcum_13_oval.jpg,NaN,old,d,high,old,hit,2.0708
+1,.,02-Apr-2024 16:13:52,1247.960508,test,486,19,2,326,img,none,Alma_Gober_5_oval.jpg,none,new,d,high,old,fa,0.74876
+1,.,02-Apr-2024 16:13:53,1249.554648,test,487,19,3,327,img,unfamiliar,Alan_Rainwater_15_oval.jpg,10.m4a,old,d,high,old,hit,0.65228
+1,.,02-Apr-2024 16:13:55,1251.184753,test,488,19,4,328,img,none,Adam_Koester_8_oval.jpg,none,new,d,high,old,fa,0.57772
+1,.,02-Apr-2024 16:13:56,1252.657151,test,489,19,5,329,img,none,Beverly_Nigro_5_oval.jpg,none,new,d,high,old,fa,0.55028
+1,.,02-Apr-2024 16:13:58,1254.233046,test,490,19,6,330,img,none,Alan_Peachey_17_oval.jpg,NaN,old,d,high,old,hit,0.59583
+1,.,02-Apr-2024 16:13:59,1255.809946,test,491,19,7,331,img,none,Amanda_Hilburn_17_oval.jpg,none,new,d,high,old,fa,0.63192
+1,.,02-Apr-2024 16:14:02,1258.010990,test,492,19,8,332,img,none,Beth_Hamer_3_oval.jpg,none,new,k,high,new,cr,1.2491
+1,.,02-Apr-2024 16:14:04,1259.850854,test,493,19,9,333,img,none,Ann_Towe_1_oval.jpg,none,new,k,high,new,cr,0.83755
+1,.,02-Apr-2024 16:14:05,1261.688561,test,494,19,10,334,img,unfamiliar,Albert_Gates_3_oval.jpg,109.m4a,old,k,high,new,miss,0.86656
+1,.,02-Apr-2024 16:14:07,1263.386276,test,495,19,11,335,img,unfamiliar,Albert_Edmond_19_oval.jpg,188.m4a,old,k,high,new,miss,0.72883
+1,.,02-Apr-2024 16:14:09,1265.064782,test,496,19,12,336,img,none,Antonio_Southern_11_oval.jpg,NaN,old,k,high,new,miss,0.70944
+1,.,02-Apr-2024 16:14:10,1266.751795,test,497,19,13,337,img,familiar,Anthony_Jamison_17_oval.jpg,Nokia ringtone.m4a,old,k,high,new,miss,0.72759
+1,.,02-Apr-2024 16:14:12,1268.311262,test,498,19,14,338,img,familiar,Alison_Trejo_15_oval.jpg,Jingle bells.m4a,old,k,high,new,miss,0.60462
+1,.,02-Apr-2024 16:14:14,1270.001845,test,499,19,15,339,img,none,Amelia_Bartholomew_13_oval.jpg,none,new,k,high,new,cr,0.74868
+1,.,02-Apr-2024 16:14:15,1271.571187,test,500,19,16,340,img,familiar,Beth_Fernandez_7_oval.jpg,Alarm (ripples).m4a,old,k,high,new,miss,0.59064
+1,.,02-Apr-2024 16:14:17,1273.312636,test,501,19,17,341,img,none,Agnes_Castellanos_15_oval.jpg,none,new,k,high,new,cr,0.729
+1,.,02-Apr-2024 16:14:19,1274.857787,test,502,19,18,342,img,none,Allison_Zambrano_7_oval.jpg,none,new,k,high,new,cr,0.54421
+1,.,02-Apr-2024 16:14:22,1278.163649,test,503,20,1,343,aud,none,none,121.m4a,new,d,high,old,fa,1.1159
+1,.,02-Apr-2024 16:14:24,1280.239235,test,504,20,2,344,aud,none,none,53.m4a,new,k,high,new,cr,0.84757
+1,.,02-Apr-2024 16:14:25,1281.641596,test,505,20,3,345,aud,none,none,144.m4a,new,d,high,old,fa,0.2787
+1,.,02-Apr-2024 16:14:26,1282.657343,test,506,20,4,346,aud,none,none,95.m4a,new,d,high,old,fa,0.0045743
+1,.,02-Apr-2024 16:14:28,1283.863521,test,507,20,5,347,aud,none,none,210.m4a,new,d,high,old,fa,0.097525
+1,.,02-Apr-2024 16:14:29,1285.151753,test,508,20,6,348,aud,unfamiliar,Amy_Shull_9_oval.jpg,38.m4a,old,k,high,new,miss,0.15956
+1,.,02-Apr-2024 16:14:31,1287.046779,test,509,20,7,349,aud,familiar,john f. kennedy.jpg,165.m4a,old,d,high,old,hit,0.77292
+1,.,02-Apr-2024 16:14:32,1288.512391,test,510,20,8,350,aud,unfamiliar,Albert_Gates_3_oval.jpg,109.m4a,old,k,high,new,miss,0.35379
+1,.,02-Apr-2024 16:14:34,1290.040314,test,511,20,9,351,aud,none,NaN,182.m4a,old,d,high,old,hit,0.3688
+1,.,02-Apr-2024 16:14:35,1291.768946,test,512,20,10,352,aud,none,none,24.m4a,new,k,high,new,cr,0.5436
+1,.,02-Apr-2024 16:14:37,1293.632285,test,513,20,11,353,aud,none,NaN,208.m4a,old,k,high,new,miss,0.67078
+1,.,02-Apr-2024 16:14:39,1295.086636,test,514,20,12,354,aud,none,none,30.m4a,new,d,high,old,fa,0.32599
+1,.,02-Apr-2024 16:14:40,1296.478593,test,515,20,13,355,aud,familiar,justin bieber.jpg,135.m4a,old,k,high,new,miss,0.27722
+1,.,02-Apr-2024 16:14:42,1297.874217,test,516,20,14,356,aud,none,none,34.m4a,new,d,high,old,fa,0.27672
+1,.,02-Apr-2024 16:14:43,1299.200687,test,517,20,15,357,aud,none,NaN,6.m4a,old,k,high,new,miss,0.1766
+1,.,02-Apr-2024 16:14:44,1300.391441,test,518,20,16,358,aud,unfamiliar,Andrew_Jaggers_3_oval.jpg,213.m4a,old,d,high,old,hit,0.01412
+1,.,02-Apr-2024 16:14:45,1301.758933,test,519,20,17,359,aud,familiar,kylie jenner.jpg,40.m4a,old,d,high,old,hit,0.21361
+1,.,02-Apr-2024 16:14:47,1303.233081,test,520,20,18,360,aud,none,none,47.m4a,new,k,high,new,cr,0.35038
+1,.,02-Apr-2024 16:14:52,1308.182748,study,521,6,1,151,aud+img,unfamiliar,Ana_Bahr_11_oval.jpg,150.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:14:55,1311.219159,study,522,6,2,152,aud,familiar,adolf hitler.jpg,185.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:14:58,1314.231090,study,523,6,3,153,img,none,Allen_Eagan_9_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:15:01,1317.271402,study,524,6,4,154,aud,none,NaN,110.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:15:04,1320.308509,study,525,6,5,155,aud+img,unfamiliar,Albert_Dobson_9_oval.jpg,143.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:15:07,1323.350897,study,526,6,6,156,img,familiar,Andrew_Jaggers_15_oval.jpg,Row your boat.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:15:10,1326.387210,study,527,6,7,157,img,familiar,Arlene_mcelroy_1_oval.jpg,Eine Klein Nachtmusik.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:15:13,1329.421808,study,528,6,8,158,aud+img,unfamiliar,Adrienne_Blaney_15_oval.jpg,197.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:15:16,1332.456551,study,529,6,9,159,aud,none,NaN,207.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:15:19,1335.491443,study,530,6,10,160,aud,none,NaN,88.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:15:22,1338.525929,study,531,6,11,161,aud,none,NaN,101.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:15:25,1341.560293,study,532,6,12,162,aud+img,unfamiliar,Alicia_Clifford_11_oval.jpg,115.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:15:28,1344.594284,study,533,6,13,163,aud,familiar,bill gates.jpg,61.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:15:31,1347.607355,study,534,6,14,164,img,none,Alan_Peachey_19_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:15:34,1350.647687,study,535,6,15,165,aud,none,NaN,169.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:15:37,1353.682433,study,536,6,16,166,aud,familiar,albert einstein.jpg,171.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:15:40,1356.717078,study,537,6,17,167,aud,none,NaN,177.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:15:43,1359.752088,study,538,6,18,168,img,familiar,Antoinette_Carrion_15_oval.jpg,Happy birthday.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:15:46,1362.787644,study,539,6,19,169,aud+img,unfamiliar,Bernice_Beavers_13_oval.jpg,27.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:15:50,1365.821783,study,540,6,20,170,aud+img,unfamiliar,Adrienne_Blaney_11_oval.jpg,4.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:15:53,1368.857297,study,541,6,21,171,img,familiar,Andrew_Kautz_9_oval.jpg,Bohemian Rhapsody.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:15:56,1371.893547,study,542,6,22,172,img,familiar,Bernice_Thornton_17_oval.jpg,Twinkle twinkle.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:15:59,1374.932525,study,543,6,23,173,aud,familiar,lionel messi.jpg,142.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:16:02,1377.967344,study,544,6,24,174,img,familiar,Adam_Koester_6_oval.jpg,Super mario bros theme.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:16:05,1380.977279,study,545,6,25,175,img,none,Albert_Colucci_15_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:16:08,1383.993483,study,546,6,26,176,img,none,Amanda_Denning_9_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:16:11,1387.008191,study,547,6,27,177,img,none,Albert_Paradise_1_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:16:14,1390.045490,study,548,6,28,178,aud,familiar,donald trump.jpg,42.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:16:17,1393.057319,study,549,6,29,179,img,none,Alan_Trimble_5_oval.jpg,NaN,.,.,.,.,.,.
+1,.,02-Apr-2024 16:16:20,1396.094978,study,550,6,30,180,aud,familiar,johnny depp.jpg,64.m4a,.,.,.,.,.,.
+1,.,02-Apr-2024 16:16:26,1402.052569,test,551,21,1,361,img,none,Amber_Moseley_7_oval.jpg,none,new,k,high,new,cr,1.5312
+1,.,02-Apr-2024 16:16:28,1403.817766,test,552,21,2,362,img,familiar,Andrew_Kautz_9_oval.jpg,Bohemian Rhapsody.m4a,old,d,high,old,hit,0.80556
+1,.,02-Apr-2024 16:16:29,1405.738324,test,553,21,3,363,img,none,Amanda_Denning_9_oval.jpg,NaN,old,d,high,old,hit,0.98399
+1,.,02-Apr-2024 16:16:31,1407.349455,test,554,21,4,364,img,none,Adam_Pace_15_oval.jpg,none,new,k,high,new,cr,0.65307
+1,.,02-Apr-2024 16:16:33,1409.108523,test,555,21,5,365,img,unfamiliar,Alicia_Clifford_11_oval.jpg,115.m4a,old,k,high,new,miss,0.63831
+1,.,02-Apr-2024 16:16:35,1410.900296,test,556,21,6,366,img,familiar,Andrew_Jaggers_15_oval.jpg,Row your boat.m4a,old,k,high,new,miss,0.84623
+1,.,02-Apr-2024 16:16:36,1412.460632,test,557,21,7,367,img,none,Alma_Gober_7_oval.jpg,none,new,k,high,new,cr,0.63256
+1,.,02-Apr-2024 16:16:38,1414.337328,test,558,21,8,368,img,familiar,Arlene_mcelroy_1_oval.jpg,Eine Klein Nachtmusik.m4a,old,k,high,new,miss,0.94246
+1,.,02-Apr-2024 16:16:40,1415.940636,test,559,21,9,369,img,none,Alan_Peachey_19_oval.jpg,NaN,old,k,high,new,miss,0.63677
+1,.,02-Apr-2024 16:16:41,1417.748464,test,560,21,10,370,img,none,Adrienne_Blaney_1_oval.jpg,none,new,k,high,new,cr,0.82907
+1,.,02-Apr-2024 16:16:43,1419.377135,test,561,21,11,371,img,unfamiliar,Bernice_Beavers_13_oval.jpg,27.m4a,old,d,high,old,hit,0.65847
+1,.,02-Apr-2024 16:16:45,1421.010953,test,562,21,12,372,img,none,Alan_Trimble_5_oval.jpg,NaN,old,d,high,old,hit,0.66474
+1,.,02-Apr-2024 16:16:46,1422.556045,test,563,21,13,373,img,none,Andrew_Nussbaum_13_oval.jpg,none,new,k,high,new,cr,0.61839
+1,.,02-Apr-2024 16:16:48,1424.216948,test,564,21,14,374,img,none,Andrew_Baugh_17_oval.jpg,none,new,k,high,new,cr,0.7565
+1,.,02-Apr-2024 16:16:50,1426.025203,test,565,21,15,375,img,none,Alma_Lafountain_17_oval.jpg,none,new,k,high,new,cr,0.83217
+1,.,02-Apr-2024 16:16:52,1428.291256,test,566,21,16,376,img,none,Alma_Litchfield_13_oval.jpg,none,new,k,high,new,cr,1.3093
+1,.,02-Apr-2024 16:16:54,1429.913507,test,567,21,17,377,img,none,Amelia_Macleod_9_oval.jpg,none,new,k,high,new,cr,0.68839
+1,.,02-Apr-2024 16:16:55,1431.492265,test,568,21,18,378,img,unfamiliar,Adrienne_Blaney_15_oval.jpg,197.m4a,old,k,high,new,miss,0.58055
+1,.,02-Apr-2024 16:16:59,1435.553797,test,569,22,1,379,aud,none,none,26.m4a,new,d,high,old,fa,1.7093
+1,.,02-Apr-2024 16:17:01,1437.763235,test,570,22,2,380,aud,none,none,66.m4a,new,d,high,old,fa,1.1125
+1,.,02-Apr-2024 16:17:04,1440.028640,test,571,22,3,381,aud,unfamiliar,Albert_Dobson_9_oval.jpg,143.m4a,old,k,high,new,miss,1.161
+1,.,02-Apr-2024 16:17:06,1441.940185,test,572,22,4,382,aud,familiar,bill gates.jpg,61.m4a,old,d,high,old,hit,0.80664
+1,.,02-Apr-2024 16:17:07,1443.747136,test,573,22,5,383,aud,familiar,adolf hitler.jpg,185.m4a,old,k,high,new,miss,0.66757
+1,.,02-Apr-2024 16:17:09,1445.084153,test,574,22,6,384,aud,familiar,donald trump.jpg,42.m4a,old,d,high,old,hit,0.19876
+1,.,02-Apr-2024 16:17:10,1446.721782,test,575,22,7,385,aud,none,none,72.m4a,new,k,high,new,cr,0.50958
+1,.,02-Apr-2024 16:17:12,1448.572115,test,576,22,8,386,aud,none,none,7.m4a,new,d,high,old,fa,0.69875
+1,.,02-Apr-2024 16:17:14,1450.176884,test,577,22,9,387,aud,unfamiliar,Ana_Bahr_11_oval.jpg,150.m4a,old,k,high,new,miss,0.47124
+1,.,02-Apr-2024 16:17:16,1452.293056,test,578,22,10,388,aud,unfamiliar,Bernice_Beavers_13_oval.jpg,27.m4a,old,d,high,old,hit,0.92088
+1,.,02-Apr-2024 16:17:17,1453.755433,test,579,22,11,389,aud,none,none,70.m4a,new,d,high,old,fa,0.36485
+1,.,02-Apr-2024 16:17:19,1455.323605,test,580,22,12,390,aud,none,none,50.m4a,new,k,high,new,cr,0.44221
+1,.,02-Apr-2024 16:17:20,1456.764930,test,581,22,13,391,aud,none,none,183.m4a,new,k,high,new,cr,0.29922
+1,.,02-Apr-2024 16:17:22,1458.669304,test,582,22,14,392,aud,none,NaN,88.m4a,old,d,high,old,hit,0.78323
+1,.,02-Apr-2024 16:17:24,1460.332927,test,583,22,15,393,aud,none,NaN,169.m4a,old,d,high,old,hit,0.5537
+1,.,02-Apr-2024 16:17:25,1461.577265,test,584,22,16,394,aud,none,NaN,207.m4a,old,d,high,old,hit,0.10196
+1,.,02-Apr-2024 16:17:27,1462.906008,test,585,22,17,395,aud,none,none,125.m4a,new,k,high,new,cr,0.20982
+1,.,02-Apr-2024 16:17:28,1464.209048,test,586,22,18,396,aud,none,none,23.m4a,new,k,high,new,cr,0.12171
+1,.,02-Apr-2024 16:17:31,1467.635070,test,587,23,1,397,aud,familiar,albert einstein.jpg,171.m4a,old,d,high,old,hit,0.7849
+1,.,02-Apr-2024 16:17:33,1469.028204,test,588,23,2,398,aud,none,none,179.m4a,new,k,high,new,cr,0.26522
+1,.,02-Apr-2024 16:17:34,1470.403740,test,589,23,3,399,aud,familiar,johnny depp.jpg,64.m4a,old,d,high,old,hit,0.25793
+1,.,02-Apr-2024 16:17:35,1471.587251,test,590,23,4,400,aud,familiar,lionel messi.jpg,142.m4a,old,d,high,old,hit,0.042505
+1,.,02-Apr-2024 16:17:37,1473.460824,test,591,23,5,401,aud,none,NaN,177.m4a,old,k,high,new,miss,0.66724
+1,.,02-Apr-2024 16:17:38,1474.473687,test,592,23,6,402,aud,unfamiliar,Alicia_Clifford_11_oval.jpg,115.m4a,old,k,high,new,miss,0.0063222
+1,.,02-Apr-2024 16:17:40,1475.937277,test,593,23,7,403,aud,none,none,146.m4a,new,k,high,new,cr,0.30579
+1,.,02-Apr-2024 16:17:41,1477.251804,test,594,23,8,404,aud,none,none,94.m4a,new,d,high,old,fa,0.1651
+1,.,02-Apr-2024 16:17:43,1478.866545,test,595,23,9,405,aud,none,none,43.m4a,new,k,high,new,cr,0.45119
+1,.,02-Apr-2024 16:17:44,1480.003007,test,596,23,10,406,aud,none,NaN,101.m4a,old,d,high,old,hit,0.0050699
+1,.,02-Apr-2024 16:17:45,1481.242821,test,597,23,11,407,aud,unfamiliar,Adrienne_Blaney_11_oval.jpg,4.m4a,old,k,high,new,miss,0.0061858
+1,.,02-Apr-2024 16:17:46,1482.533488,test,598,23,12,408,aud,none,none,162.m4a,new,d,high,old,fa,0.12479
+1,.,02-Apr-2024 16:17:47,1483.618778,test,599,23,13,409,aud,unfamiliar,Adrienne_Blaney_15_oval.jpg,197.m4a,old,d,high,old,hit,0.0055954
+1,.,02-Apr-2024 16:17:48,1484.620746,test,600,23,14,410,aud,none,none,31.m4a,new,d,high,old,fa,0.003714
+1,.,02-Apr-2024 16:17:51,1486.891894,test,601,23,15,411,aud,none,none,141.m4a,new,k,high,new,cr,1.0924
+1,.,02-Apr-2024 16:17:52,1488.741347,test,602,23,16,412,aud,none,none,148.m4a,new,d,high,old,fa,0.7117
+1,.,02-Apr-2024 16:17:54,1490.225469,test,603,23,17,413,aud,none,none,91.m4a,new,k,high,new,cr,0.24125
+1,.,02-Apr-2024 16:17:56,1492.027667,test,604,23,18,414,aud,none,NaN,110.m4a,old,d,high,old,hit,0.65511
+1,.,02-Apr-2024 16:17:59,1495.621323,test,605,24,1,415,img,none,Albert_Rohr_5_oval.jpg,none,new,d,high,old,fa,1.0969
+1,.,02-Apr-2024 16:18:01,1497.186645,test,606,24,2,416,img,none,Alan_Trimble_15_oval.jpg,none,new,k,high,new,cr,0.60502
+1,.,02-Apr-2024 16:18:02,1498.787871,test,607,24,3,417,img,unfamiliar,Adrienne_Blaney_11_oval.jpg,4.m4a,old,d,high,old,hit,0.64389
+1,.,02-Apr-2024 16:18:04,1500.638920,test,608,24,4,418,img,none,Albert_Colucci_15_oval.jpg,NaN,old,k,high,new,miss,0.87228
+1,.,02-Apr-2024 16:18:06,1502.164373,test,609,24,5,419,img,familiar,Bernice_Thornton_17_oval.jpg,Twinkle twinkle.m4a,old,k,high,new,miss,0.57904
+1,.,02-Apr-2024 16:18:07,1503.642570,test,610,24,6,420,img,none,Alberta_Herbst_15_oval.jpg,none,new,k,high,new,cr,0.54632
+1,.,02-Apr-2024 16:18:09,1505.267043,test,611,24,7,421,img,none,Anne_Hamel_17_oval.jpg,none,new,d,high,old,fa,0.65383
+1,.,02-Apr-2024 16:18:10,1506.764368,test,612,24,8,422,img,none,Anthony_Rimmer_11_oval.jpg,none,new,k,high,new,cr,0.54144
+1,.,02-Apr-2024 16:18:12,1508.403591,test,613,24,9,423,img,none,Anne_Alicea_11_oval.jpg,none,new,k,high,new,cr,0.71681
+1,.,02-Apr-2024 16:18:14,1510.108730,test,614,24,10,424,img,none,Arthur_Deering_3_oval.jpg,none,new,k,high,new,cr,0.75803
+1,.,02-Apr-2024 16:18:15,1511.781521,test,615,24,11,425,img,none,Albert_Paradise_1_oval.jpg,NaN,old,k,high,new,miss,0.72478
+1,.,02-Apr-2024 16:18:17,1513.071131,test,616,24,12,426,img,unfamiliar,Albert_Dobson_9_oval.jpg,143.m4a,old,k,high,new,miss,0.25267
+1,.,02-Apr-2024 16:18:18,1514.554921,test,617,24,13,427,img,familiar,Antoinette_Carrion_15_oval.jpg,Happy birthday.m4a,old,k,high,new,miss,0.47553
+1,.,02-Apr-2024 16:18:21,1517.388800,test,618,24,14,428,img,none,Alison_Trejo_9_oval.jpg,none,new,,,,miss,4
+1,.,02-Apr-2024 16:18:21,1517.589888,test,619,24,14,428,img,none,Alison_Trejo_9_oval.jpg,none,new,k,high,new,cr,2.0279
+1,.,02-Apr-2024 16:18:24,1520.036090,test,620,24,15,429,img,familiar,Adam_Koester_6_oval.jpg,Super mario bros theme.m4a,old,k,high,new,miss,1.4528
+1,.,02-Apr-2024 16:18:25,1521.797922,test,621,24,16,430,img,none,Allen_Eagan_9_oval.jpg,NaN,old,d,high,old,hit,0.7632
+1,.,02-Apr-2024 16:18:27,1523.458714,test,622,24,17,431,img,none,Adam_Yamada_3_oval.jpg,none,new,k,high,new,cr,0.73291
+1,.,02-Apr-2024 16:18:29,1524.926104,test,623,24,18,432,img,unfamiliar,Ana_Bahr_11_oval.jpg,150.m4a,old,k,high,new,miss,0.52439
